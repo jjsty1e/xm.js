@@ -1,5 +1,5 @@
 
-<p style="text-align:center">
+<p align="center">
     javascript utils at xmebank.
     <br/>
     <br/>
